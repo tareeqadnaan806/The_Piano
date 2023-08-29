@@ -113,3 +113,94 @@ window.addEventListener("keydown", (event)=>{
     }
     
 })
+
+document.getElementById("key1").addEventListener("click", ()=>{
+    document.getElementById("sound1").play()
+})
+document.getElementById("key2").addEventListener("click", ()=>{
+    document.getElementById("sound2").play()
+})
+document.getElementById("key3").addEventListener("click", ()=>{
+    document.getElementById("sound3").play()
+})
+document.getElementById("key4").addEventListener("click", ()=>{
+    document.getElementById("sound4").play()
+})
+document.getElementById("key5").addEventListener("click", ()=>{
+    document.getElementById("sound5").play()
+})
+document.getElementById("key6").addEventListener("click", ()=>{
+    document.getElementById("sound6").play()
+})
+document.getElementById("key7").addEventListener("click", ()=>{
+    document.getElementById("sound7").play()
+})
+document.getElementById("key8").addEventListener("click", ()=>{
+    document.getElementById("sound8").play()
+})
+document.getElementById("key9").addEventListener("click", ()=>{
+    document.getElementById("sound9").play()
+})
+document.getElementById("key10").addEventListener("click", ()=>{
+    document.getElementById("sound10").play()
+})
+document.getElementById("key11").addEventListener("click", ()=>{
+    document.getElementById("sound11").play()
+})
+document.getElementById("key12").addEventListener("click", ()=>{
+    document.getElementById("sound12").play()
+})
+document.getElementById("key13").addEventListener("click", ()=>{
+    document.getElementById("sound13").play()
+})
+document.getElementById("key14").addEventListener("click", ()=>{
+    document.getElementById("sound14").play()
+})
+document.getElementById("key15").addEventListener("click", ()=>{
+    document.getElementById("sound15").play()
+})
+document.getElementById("key16").addEventListener("click", ()=>{
+    document.getElementById("sound16").play()
+})
+document.getElementById("key17").addEventListener("click", ()=>{
+    document.getElementById("sound17").play()
+})
+document.getElementById("key18").addEventListener("click", ()=>{
+    document.getElementById("sound18").play()
+})
+document.getElementById("key19").addEventListener("click", ()=>{
+    document.getElementById("sound19").play()
+})
+document.getElementById("key20").addEventListener("click", ()=>{
+    document.getElementById("sound20").play()
+})
+document.getElementById("key21").addEventListener("click", ()=>{
+    document.getElementById("sound21").play()
+})
+document.getElementById("key22").addEventListener("click", ()=>{
+    document.getElementById("sound22").play()
+})
+document.getElementById("key23").addEventListener("click", ()=>{
+    document.getElementById("sound23").play()
+})
+document.getElementById("key24").addEventListener("click", ()=>{
+    document.getElementById("sound24").play()
+})
+document.getElementById("key25").addEventListener("click", ()=>{
+    document.getElementById("sound25").play()
+})
+document.getElementById("key26").addEventListener("click", ()=>{
+    document.getElementById("sound26").play()
+})
+document.getElementById("key27").addEventListener("click", ()=>{
+    document.getElementById("sound27").play()
+})
+document.getElementById("key28").addEventListener("click", ()=>{
+    document.getElementById("sound28").play()
+})
+document.getElementById("key29").addEventListener("click", ()=>{
+    document.getElementById("sound29").play()
+})
+document.getElementById("key30").addEventListener("click", ()=>{
+    document.getElementById("sound30").play()
+})
