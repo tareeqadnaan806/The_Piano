@@ -12,7 +12,7 @@ A virtual piano built using HTML, CSS, and JavaScript that allows users to play 
 
 ## Installation
 
-Clone the repository: `git clone https://github.com/yourusername/piano-project.git`
+Clone the repository: `https://github.com/tareeqadnaan806/The_Piano`
 Use your computer keyboard to play musical notes. Clicking on the keys with your mouse also works.
 
 ## Contributing
