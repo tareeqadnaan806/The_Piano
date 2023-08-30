@@ -20,7 +20,7 @@ h1{
 
 p{
     color: #f3f1de;
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
     margin-bottom: 150px;
 }
@@ -48,6 +48,14 @@ li{
     align-items: end;
     font-size: 30px;
 }
+
+.white:active{
+    background-color: grey;
+}
+.black:active{
+    background-color: grey;
+}
+
 
 .black{
     height: 150px;
